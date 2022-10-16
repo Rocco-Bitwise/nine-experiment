@@ -1,0 +1,207 @@
+<items id = "images" relativepath="true">
+
+<item
+path = "media/cover_Jun.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+
+<item
+path = "media/inside_cover_front.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+
+<item
+path = "media/title_page.png"
+width = "755"
+height = "476"
+>
+</item>
+
+
+<item
+path = "media/sketch_03.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+
+<item
+path = "media/sketch_04.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+
+<item
+path = "media/sketch_05.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+
+<item
+path = "media/sketch_06.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+
+<item
+path = "media/sketch_07.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+
+<item
+path = "media/sketch_08.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+
+<item
+path = "media/sketch_09.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+<item
+path = "media/sketch_10.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+<item
+path = "media/sketch_11.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+<item
+path = "media/sketch_12.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+<item
+path = "media/sketch_blank.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+<item
+path = "media/sketch_14.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+<item
+path = "media/sketch_blank.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+<item
+path = "media/sketch_16.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+<item
+path = "media/sketch_17.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+<item
+path = "media/sketch_18.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+<item
+path = "media/sketch_blank.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+
+<item
+path = "media/sketch_20.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+<item
+path = "media/sketch_21.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+<item
+path = "media/sketch_22.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+<item
+path = "media/sketch_blank.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+
+<item
+path = "media/inside_cover_back.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+
+<item
+path = "media/back_cover.jpg"
+width = "755"
+height = "476"
+
+>
+</item>
+
+<!--item
+path = "media/sketch_11.png"
+width = "618"
+height = "800"
+type="moviefile"
+>
+</item-->
+
+
+</items>

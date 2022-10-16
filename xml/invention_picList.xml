@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<xml>
+
+	<item thumb="images/inventions/pic_thumb_0.jpg" title="Machine 1" link="images/inventions/pic_0.jpg" creation_date="JUN 12" cdateMonth="5" cdateDay="12" cdateYear="9"/>
+
+	<item thumb="images/inventions/pic_thumb_1.jpg" title="Machine 2" link="images/inventions/pic_1.jpg" creation_date="JUN 12" cdateMonth="5" cdateDay="12" cdateYear="9"/>
+
+	<item thumb="images/inventions/pic_thumb_2.jpg" title="Machine 3" link="images/inventions/pic_2.jpg" creation_date="JUN 12" cdateMonth="5" cdateDay="12" cdateYear="9"/>
+
+	<item thumb="images/inventions/pic_thumb_3.jpg" title="Machine 4" link="images/inventions/pic_3.jpg" creation_date="JUN 12" cdateMonth="5" cdateDay="12" cdateYear="9"/>
+	
+	<item thumb="images/inventions/pic_thumb_4.jpg" title="Machine 5" link="images/inventions/pic_4.jpg" creation_date="JUN 12" cdateMonth="5" cdateDay="12" cdateYear="9"/>
+
+	<item thumb="images/inventions/pic_thumb_5.jpg" title="Machine 6" link="images/inventions/pic_5.jpg" creation_date="JUN 29" cdateMonth="5" cdateDay="12" cdateYear="9"/>
+
+	<item thumb="images/inventions/pic_thumb_6.jpg" title="Machine 7" link="images/inventions/pic_6.jpg" creation_date="JUN 29" cdateMonth="5" cdateDay="12" cdateYear="9"/>
+	
+	<item thumb="images/inventions/pic_thumb_7.jpg" title="Machine 8" link="images/inventions/pic_7.jpg" creation_date="AUG 11" cdateMonth="5" cdateDay="12" cdateYear="9"/>
+	
+	<item thumb="images/inventions/pic_thumb_8.jpg" title="Machine 9" link="images/inventions/pic_8.jpg" creation_date="AUG 17" cdateMonth="5" cdateDay="12" cdateYear="9"/>
+	
+	<item thumb="images/inventions/pic_thumb_9.jpg" title="Machine 10" link="images/inventions/pic_9.jpg" creation_date="AUG 19" cdateMonth="5" cdateDay="12" cdateYear="9"/>
+	
+	<item thumb="images/inventions/pic_thumb_10.jpg" title="Machine 10" link="images/inventions/pic_10.jpg" creation_date="AUG 24" cdateMonth="5" cdateDay="12" cdateYear="9"/>
+	
+	<item thumb="images/inventions/pic_thumb_11.jpg" title="Machine 10" link="images/inventions/pic_11.jpg" creation_date="AUG 28" cdateMonth="5" cdateDay="12" cdateYear="9"/>
+	
+	<item thumb="images/inventions/pic_thumb_12.jpg" title="Machine 10" link="images/inventions/pic_12.jpg" creation_date="AUG 31" cdateMonth="5" cdateDay="12" cdateYear="9"/>
+	
+	<item thumb="images/inventions/pic_thumb_13.jpg" title="Machine 10" link="images/inventions/pic_13.jpg" creation_date="SEPT 03" cdateMonth="5" cdateDay="12" cdateYear="9"/>
+	
+	<item thumb="images/inventions/pic_thumb_14.jpg" title="Machine 10" link="images/inventions/pic_14.jpg" creation_date="SEPT 08" cdateMonth="5" cdateDay="12" cdateYear="9"/>
+	
+	<item thumb="images/inventions/cs_thumb2.jpg" title="Coming Soon" link="images/inventions/comingsoon.jpg" creation_date=" " cdateMonth="5" cdateDay="12" cdateYear="9"/>
+	
+	<item thumb="images/inventions/cs_thumb2.jpg" title="Coming Soon" link="images/inventions/comingsoon.jpg" creation_date=" " cdateMonth="5" cdateDay="12" cdateYear="9"/>
+	
+	<item thumb="images/inventions/cs_thumb2.jpg" title="Coming Soon" link="images/inventions/comingsoon.jpg" creation_date=" " cdateMonth="5" cdateDay="12" cdateYear="9"/>
+
+</xml>

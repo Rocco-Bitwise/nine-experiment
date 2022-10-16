@@ -1,0 +1,282 @@
+<items id = "images" relativepath="true">
+
+<item
+path = "media/cover_Aug.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+
+<item
+path = "media/inside_cover_front.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+
+<item
+path = "media/sketch_52.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+
+<item
+path = "media/sketch_blank.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+
+<item
+path = "media/sketch_54.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+
+
+<item
+path = "media/sketch_blank.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+
+<item
+path = "media/sketch_56.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+<item
+path = "media/sketch_blank.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+
+<item
+path = "media/sketch_58.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+
+
+<item
+path = "media/sketch_blank.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+
+<item
+path = "media/sketch_60.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+
+<item
+path = "media/sketch_blank.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+
+<item
+path = "media/sketch_62.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+
+<item
+path = "media/sketch_63.jpg"
+width = "755"
+height = "476"
+>
+
+
+</item>
+<item
+path = "media/sketch_64.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+<item
+path = "media/sketch_65.jpg"
+width = "755"
+height = "476"
+>
+
+</item>
+<item
+path = "media/sketch_66.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+
+<item
+path = "media/sketch_blank.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+
+<item
+path = "media/sketch_64b.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+
+<item
+path = "media/sketch_67.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+
+<item
+path = "media/sketch_67b.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+
+<item
+path = "media/sketch_blank.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+
+<item
+path = "media/sketch_68.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+
+<item
+path = "media/sketch_71.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+
+<item
+path = "media/sketch_71b.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+
+<item
+path = "media/sketch_blank.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+
+<item
+path = "media/sketch_72.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+
+<item
+path = "media/sketch_73.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+
+<item
+path = "media/sketch_74.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+
+<item
+path = "media/sketch_75.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+
+<item
+path = "media/sketch_76.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+
+<item
+path = "media/sketch_blank.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+
+<item
+path = "media/inside_cover_back.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+
+<item
+path = "media/back_cover.jpg"
+width = "755"
+height = "476"
+>
+</item>
+
+<!--item
+path = "media/sketch_11.png"
+width = "618"
+height = "800"
+type="moviefile"
+>
+</item-->
+
+
+</items>

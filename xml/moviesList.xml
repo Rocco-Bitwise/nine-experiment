@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<xml>
+
+<item thumb="media/elijah.jpg" title="Welcome from Elijah" link="media/elijah.flv" />
+
+<item thumb="media/trailer.jpg" title="Trailer" link="media/trailer.flv" />
+
+<item thumb="media/seamstress.jpg" title="The Seamstress" link="media/seamstress.flv" />
+
+<item thumb="media/teaser.jpg" title="Teaser" link="media/teaser.flv" />
+
+<item thumb="media/good_vs_evil.jpg" title="Good vs. Evil" link="media/good_vs_evil.flv" />
+
+<item thumb="media/little_brother.jpg" title="Little Brother" link="media/little_brother.flv" />
+
+<item thumb="media/the_count.jpg" title="The Count" link="media/the_count.flv" />
+
+<item thumb="media/9_intensity.jpg" title="9 Intensity" link="media/9_intensity.flv" />
+
+
+</xml>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<xml>
+
+	<item thumb="images/findings/pic_thumb_0.jpg" title="Finding 1" link="images/findings/pic_0.jpg" creation_date="JUN 12" cdateMonth="5" cdateDay="12" cdateYear="9"/>
+
+	<item thumb="images/findings/pic_thumb_1.jpg" title="Finding 2" link="images/findings/pic_1.jpg" creation_date="JUN 24" cdateMonth="5" cdateDay="24" cdateYear="9"/>
+
+	<item thumb="images/findings/pic_thumb_2.jpg" title="Finding 3" link="images/findings/pic_2.jpg" creation_date="JUN 25" cdateMonth="5" cdateDay="25" cdateYear="9"/>
+
+	<item thumb="images/findings/pic_thumb_3.jpg" title="Finding 4" link="images/findings/pic_3.jpg" creation_date="JUL 06" cdateMonth="5" cdateDay="6" cdateYear="9"/>
+
+	<item thumb="images/findings/pic_thumb_4.jpg" title="Finding 5" link="images/findings/pic_4.jpg" creation_date="JUL 07" cdateMonth="5" cdateDay="7" cdateYear="9"/>
+
+	<item thumb="images/findings/pic_thumb_5.jpg" title="Finding 6" link="images/findings/pic_5.jpg" creation_date="JUL 07" cdateMonth="5" cdateDay="7" cdateYear="9"/>
+
+	<item thumb="images/findings/pic_thumb_6.jpg" title="Finding 7" link="images/findings/pic_6.jpg" creation_date="JUL 07" cdateMonth="5" cdateDay="12" cdateYear="9"/>
+
+	<item thumb="images/findings/pic_thumb_7.jpg" title="Finding 8" link="images/findings/pic_7.jpg" creation_date="JUL 08" cdateMonth="5" cdateDay="12" cdateYear="9"/>
+
+	<item thumb="images/findings/pic_thumb_8.jpg" title="Finding 9" link="images/findings/pic_8.jpg" creation_date="JUL 10" cdateMonth="5" cdateDay="12" cdateYear="9"/>
+
+	<item thumb="images/findings/pic_thumb_9.jpg" title="Finding 10" link="images/findings/pic_9.jpg" creation_date="JUL 10" cdateMonth="5" cdateDay="12" cdateYear="9"/>
+
+	<item thumb="images/findings/pic_thumb_10.jpg" title="Finding 11" link="images/findings/pic_10.jpg" creation_date="JUL 13" cdateMonth="5" cdateDay="12" cdateYear="9"/>
+
+	<item thumb="images/findings/pic_thumb_11.jpg" title="Finding 12" link="images/findings/pic_11.jpg" creation_date="JUL 13" cdateMonth="5" cdateDay="12" cdateYear="9"/>
+
+	<item thumb="images/findings/pic_thumb_12.jpg" title="Finding 13" link="images/findings/pic_12.jpg" creation_date="JUL 14" cdateMonth="5" cdateDay="12" cdateYear="9"/>
+
+	<item thumb="images/findings/pic_thumb_13.jpg" title="Finding 14" link="images/findings/pic_13.jpg" creation_date="JUL 16" cdateMonth="5" cdateDay="12" cdateYear="9"/>
+
+	<item thumb="images/findings/cs_thumb.jpg" title="Coming Soon" link="images/findings/comingsoon.jpg" creation_date=" " cdateMonth="5" cdateDay="12" cdateYear="9"/>
+
+	<item thumb="images/findings/cs_thumb3.jpg" title="Coming Soon" link="images/findings/comingsoon.jpg" creation_date=" " cdateMonth="5" cdateDay="12" cdateYear="9"/>
+
+	<item thumb="images/findings/cs_thumb2.jpg" title="Coming Soon" link="images/findings/comingsoon.jpg" creation_date=" " cdateMonth="5" cdateDay="12" cdateYear="9"/>
+
+	<item thumb="images/findings/cs_thumb4.jpg" title="Coming Soon" link="images/findings/comingsoon.jpg" creation_date=" " cdateMonth="5" cdateDay="12" cdateYear="9"/>
+
+	<!--item thumb="images/findings/cs_thumb.jpg" title="Coming Soon" link="images/findings/comingsoon.jpg" creation_date=" " cdateMonth="5" cdateDay="12" cdateYear="9"/>
+
+	<item thumb="images/findings/cs_thumb.jpg" title="Coming Soon" link="images/findings/comingsoon.jpg" creation_date=" " cdateMonth="5" cdateDay="12" cdateYear="9"/>
+
+	<item thumb="images/findings/cs_thumb.jpg" title="Coming Soon" link="images/findings/comingsoon.jpg" creation_date=" " cdateMonth="5" cdateDay="12" cdateYear="9"/>
+
+	<item thumb="images/findings/cs_thumb.jpg" title="Coming Soon" link="images/findings/comingsoon.jpg" creation_date=" " cdateMonth="5" cdateDay="12" cdateYear="9"/>
+
+	<item thumb="images/findings/cs_thumb.jpg" title="Coming Soon" link="images/findings/comingsoon.jpg" creation_date=" " cdateMonth="5" cdateDay="12" cdateYear="9"/>
+
+	<item thumb="images/findings/cs_thumb.jpg" title="Coming Soon" link="images/findings/comingsoon.jpg" creation_date=" " cdateMonth="5" cdateDay="12" cdateYear="9"/>
+
+	<item thumb="images/findings/cs_thumb.jpg" title="Coming Soon" link="images/findings/comingsoon.jpg" creation_date=" " cdateMonth="5" cdateDay="12" cdateYear="9"/-->
+
+</xml>

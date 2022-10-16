@@ -1,0 +1,18 @@
+<items id = "clips" relativepath="true">
+
+<item clip= "MP3_AUDIO/r_aint_misbehavin.mp3" band="a" station="-80"/>
+<item clip= "MP3_AUDIO/r_come_back.mp3" band="a" station="-40"/>
+<item clip= "MP3_AUDIO/r_flaming_youth.mp3" band="a" station="80"/>
+<item clip= "MP3_AUDIO/r_follow_the_crowd.mp3" band="a" station="30"/>
+<item clip= "MP3_AUDIO/r_long_way_to_tipperary.mp3" band="a" station="60"/>
+<item clip= "MP3_AUDIO/r_chancelor_1.mp3" band="a" station="100"/>
+
+
+
+<item clip= "MP3_AUDIO/r_nashville_nightingale.mp3" band="b" station="-60"/>
+<item clip= "MP3_AUDIO/r_smoke_gets_in_your_eyes.mp3" band="b" station="-20"/>
+<item clip= "MP3_AUDIO/r_toodles.mp3" band="b" station="20"/>
+<item clip= "MP3_AUDIO/r_turn_off_your_light.mp3" band="b" station="40"/>
+<item clip= "MP3_AUDIO/r_wanderer.mp3" band="b" station="80"/>
+
+</items>

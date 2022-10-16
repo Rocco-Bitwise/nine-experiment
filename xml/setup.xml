@@ -1,0 +1,30 @@
+<setup>
+  	<init>
+    	<imagewidth>0</imagewidth>
+		<pauzebeteeneffects>4000</pauzebeteeneffects>
+		<desolvesteps>5</desolvesteps>
+		<blureffect>true</blureffect>
+		<backgroundcolor>0xc4c4c4</backgroundcolor>
+		<imagefolder>images</imagefolder>
+	</init>
+		<images>
+		<file>orig_machine.png</file>
+		</images>
+		<images>
+		<file>side_view_orig_mach.1.png</file>
+		</images>
+		<images>
+		<file>orig_mach_brain.png</file>
+		</images>
+		<!--images>
+		<file>markt.jpg</file>
+		</images>
+		<images>
+		<file>dscf0195.jpg</file>
+		</images>
+		<images>
+		<file>dscf0035.jpg</file>
+		</images-->
+	
+		
+</setup>
